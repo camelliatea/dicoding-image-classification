@@ -22,8 +22,11 @@ Kredit penuh diberikan kepada Sen Li dan Yang Zhang, serta Ahmed Alrefaei.
 
 ## Cara Menjalankan Proyek
 1. Instal Dependensi
+   
     `pip install -r requirements.txt`
+   
 2. Jalankan Notebook *Submission_Akhir.ipynb*
+   
     Upload file ke Google Colab atau buka melalui VS Code.
 
 ---
@@ -32,18 +35,31 @@ Kredit penuh diberikan kepada Sen Li dan Yang Zhang, serta Ahmed Alrefaei.
 dicoding-image-classification/
 
 ├── saved_model
-│   ├── assets
-│   ├── variables
-│   ├── fingerprint.pb
-│   └── saved_model.pb
-├── tfjs_model
-│   ├── group1-shard1of2.bin
-│   ├── group1-shard2of2.bin
-│   └── model.json
-├── tflite
-│   ├── label.txt 
-│   └── model.tflite
-├── notebook.ipynb
-├── README.md
-└── requirements.txt
 
+│   ├── assets
+
+│   ├── variables
+
+│   ├── fingerprint.pb
+
+│   └── saved_model.pb
+
+├── tfjs_model
+
+│   ├── group1-shard1of2.bin
+
+│   ├── group1-shard2of2.bin
+
+│   └── model.json
+
+├── tflite
+
+│   ├── label.txt 
+
+│   └── model.tflite
+
+├── notebook.ipynb
+
+├── README.md
+
+└── requirements.txt

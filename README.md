@@ -22,18 +22,6 @@ Dataset ini dilisensikan di bawah Creative Commons Attribution 4.0 International
 Kredit penuh diberikan kepada Sen Li dan Yang Zhang, serta Ahmed Alrefaei.
 
 
-## Cara Menjalankan Proyek
-
-1. Instal Dependensi
-   
-    `pip install -r requirements.txt`
-   
-2. Jalankan Notebook *Submission_Akhir.ipynb*
-   
-    Upload file ke Google Colab atau buka melalui VS Code.
-
----
-
 ## Struktur Folder
 
 dicoding-image-classification/
